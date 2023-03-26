@@ -1,2 +1,3 @@
-# numerical_methods
+# Numerical Methods
+
 Addressing the numerical methods exercises from Chapra's book.
