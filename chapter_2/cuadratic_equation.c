@@ -66,7 +66,7 @@ int main(void){
     }else if( ((c<0)&&(a<0)) || ((c>0)&&(a>0)) ){
       x1=cimag(csqrtl(-c/a));
       x2=-cimag(csqrtl(-c/a));
-      printf("\n The solution is of the form: \n\n x1=sqrt(-c/a) y x2=-sqrt(-c/a) \n\n The result is within the field of complex numbers. The value of x1 = %lf + %lfi and x2 = %lf + %lfi \n\n If you want to log in again, press 1 to the MENU or 0 to EXIT \n Value =  ",x1,x2);
+      printf("\n The solution is of the form: \n\n x1=sqrt(-c/a) y x2=-sqrt(-c/a) \n\n The result is within the field of complex numbers. The value of x1 =  %lfi and x2 =  %lfi \n\n If you want to log in again, press 1 to the MENU or 0 to EXIT \n Value =  ",x1,x2);
       scanf("%d",&dc);
       if(dc==1){
 	goto MENU;
