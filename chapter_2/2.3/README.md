@@ -6,7 +6,9 @@ Develop, debug, and document a program to determine the roots of a quadratic equ
 
 - a) a = 1, b = 6, c = 2. 
 
-- b) a = 0, b = –4, c = 1.6; c) a = 3, b = 2.5, c = 7.
+- b) a = 0, b = –4, c = 1.6
+
+- c) a = 3, b = 2.5, c = 7
 
 ## Solution:
 
