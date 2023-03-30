@@ -27,6 +27,6 @@ Write the algorithm for
 
 ## Solution:
 
-- ![a](https://github.com/aggranadoss/numerical_methods/blob/main/chapter_2/2.4/sinx.svg)
+ ![a](https://github.com/aggranadoss/numerical_methods/blob/main/chapter_2/2.4/sinx.svg)
 
 - b) Must be compiled on Unix system with the command "gcc -o sinx sinx.c -lm" and test with x = 1.5
