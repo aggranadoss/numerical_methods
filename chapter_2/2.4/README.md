@@ -17,6 +17,6 @@ $$ \sin x = x - \frac{x^{3}}{3!}+\frac{x^{5}}{5!} $$
 
 up to the term of order n that you choose. For each of the above values, calculate and display the percentage error relative:
 
-$$ \% \text{error}=\frac{\text={true value}-\text={approximation with the series}}{true value}x 100 \% $$
+$$  \text{error}=\frac{\text={true value}-\text={approximation with the series}}{true value}x 100  $$
 
 Write the algorithm for a) structured flowchart, and b)pseudocode.
