@@ -21,6 +21,6 @@ up to the term of order n that you choose. For each of the above values, calcula
 
 Write the algorithm for 
 
-- a) structured flowchart
+- a) Structured flowchart
 
-- b)pseudocode.
+- b) Pseudocode.
