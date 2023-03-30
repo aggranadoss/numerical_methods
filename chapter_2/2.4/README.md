@@ -23,4 +23,10 @@ Write the algorithm for
 
 - a) Structured flowchart
 
-- b) Pseudocode.
+- b) Find sin(1.5) up to and including the term $\frac{x^{15}}{15!}$
+
+## Solution:
+
+- a) ![]()
+
+- b) Must be compiled on Unix system with the command "gcc -o sinx sinx.c -lm" and test with x = 1.5
