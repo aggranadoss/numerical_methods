@@ -19,4 +19,8 @@ up to the term of order n that you choose. For each of the above values, calcula
 
  $$  \text{ percent error}=\frac{\text{true value}-\text{approximation with the series}}{\text{true value}} \hspace{0.1cm} x 100 \hspace{0.1cm} \text{  percent}   $$
 
-Write the algorithm for a) structured flowchart, and b)pseudocode.
+Write the algorithm for 
+
+- a) structured flowchart
+
+- b)pseudocode.
