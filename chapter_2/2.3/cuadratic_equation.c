@@ -9,12 +9,16 @@
 #include<math.h>
 #include<complex.h>
 
+#define EXIT_SUCCESS 0
+
 int main(void){
 
   double a,b,c,x,x1,x2,x11,x12,x21,x22;
-  int dc,EXIT_SUCCESS=0;
+  int dc;
   
  MENU:
+  system("clear");
+  
   printf("\n\n Generalization of the quadratic equation for values a, b and c in the field of reals \n\n");
 
   printf("\n Insert the value a = ");
@@ -25,6 +29,8 @@ int main(void){
 
   printf("\n Insert the value c = ");
   scanf("%lf",&c);
+
+  system("clear");
 
  CONDITIONAL:
   if((a==0) && (b==0) && (c==0) ){
