@@ -322,7 +322,7 @@ Calculando todas las combinaciones posibles de $W$ ya que $P(W=n)=Y_{1}+Y_{2}+Y_
 
 ```
 
-````{r}
+```{r}
 count_combinations <- function(n) {
   combinations <- 0
   
