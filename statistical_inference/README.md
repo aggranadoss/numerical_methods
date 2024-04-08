@@ -1,6 +1,6 @@
 # Numerical Methods
 
-The exercise is determined by a fair die (balanced) and the entire exercise was addressed in the R-software with an essay explaining the step by step.
+The exercise is determined by a fair die (balanced) and the entire exercise was addressed in the R-software with an essay explaining the step by step. The entire document and code is explained in Spanish
 
 - [PDF](https://github.com/aggranadoss/numerical_methods/blob/main/statistical_inference/inferencia.pdf)
 
